@@ -61,6 +61,8 @@ h1,h2,h3,h4,h5,h6 {
 
 .country {
   color: black;
+  letter-spacing: 3px;
+  font-family: 'Inter', sans-serif;
 }
 
 .country, .maps {
